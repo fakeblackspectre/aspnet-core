@@ -1,0 +1,32 @@
+{
+  "Culture": "pt-BR",
+  "Texts": {
+    "Menu:Home": "Principal",
+    "Welcome": "Bem-vindo",
+    "LongWelcomeMessage": "Bem-vindo à aplicação. Este é um projeto inicial baseado na ABP Framework. Para mais informações, visite abp.io.",
+    "Menu:BookStore": "Livraria",
+    "Menu:Books": "Livros",
+    "Actions": "Ações",
+    "Close": "Fechar",
+    "Delete": "Apagar",
+    "Edit": "Editar",
+    "PublishDate": "Data de publicação",
+    "NewBook": "Novo livro",
+    "Name": "Nome",
+    "Type": "Tipo",
+    "Price": "Preço",
+    "CreationTime": "Data de criação",
+    "AreYouSure": "Tem a certeza?",
+    "AreYouSureToDelete": "Tem a certeza que deseja apagar este item?",
+    "Enum:BookType.0": "Não definido",
+    "Enum:BookType.1": "Aventura",
+    "Enum:BookType.2": "Biografia",
+    "Enum:BookType.3": "Distopia",
+    "Enum:BookType.4": "Fantasia",
+    "Enum:BookType.5": "Terror",
+    "Enum:BookType.6": "Ciência",
+    "Enum:BookType.7": "Ficção Ciêntífica",
+    "Enum:BookType.8": "Poesia",
+    "SelectBookTypeMessage": "Selecione um tipo"
+  }
+}
