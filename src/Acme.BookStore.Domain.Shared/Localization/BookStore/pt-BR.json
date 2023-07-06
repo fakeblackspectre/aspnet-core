@@ -27,6 +27,23 @@
     "Enum:BookType.6": "Ciência",
     "Enum:BookType.7": "Ficção Ciêntífica",
     "Enum:BookType.8": "Poesia",
-    "SelectBookTypeMessage": "Selecione um tipo"
+    "SelectBookTypeMessage": "Selecione um tipo",
+    "Permission:BookStore": "Livraria",
+    "Permission:Books": "Gestão de livros",
+    "Permission:Books.Create": "Criar novos livros",
+    "Permission:Books.Edit": "Editar livros",
+    "Permission:Books.Delete": "Apagar livros",
+    "BookStore:00001": "Já existe um autor com o mesmo nome: {name}",
+    "Permission:Authors": "Gestão de autores",
+    "Permission:Authors.Create": "Criar novos autores",
+    "Permission:Authors.Edit": "Editar autores",
+    "Permission:Authors.Delete": "Apagar autores",
+    "Menu:Authors": "Autores",
+    "Authors": "Autores",
+    "AuthorDeletionConfirmationMessage": "Tem a certeza que deseja apagar o autor: '{0}'?",
+    "BirthDate": "Data de nascimento",
+    "NewAuthor": "Novo autor",
+    "Author": "Autor",
+    "SelectAuthorMessage": "Selecione um autor"
   }
 }
